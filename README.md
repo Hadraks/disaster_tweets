@@ -1,6 +1,4 @@
-# disaster_tweets
-Analyzing tweets about disasters
-
+# Disaster Tweets
 Twitter is an enormous source of real time, often geo tagged information about the world. This information can be incredibly useful in understanding the location, scale and nature of disasters. 
 
 Business proposal
